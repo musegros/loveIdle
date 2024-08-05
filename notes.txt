@@ -1,0 +1,19 @@
+-Ending: Become powerful enough to destroy the world
+
+-multiple resources?
+-rebirth/ng+
+-combat?
+-what is the mana for
+  -
+-what is the player doing most of the time?
+  -working towards the next upgrade
+
+UI
+  -button prompts change color when can/can't do them
+
+Mana represents effort that is spent to do what the player wants to fulfill needs such as eating
+-Gives the player a reason to wait between taking actions, and provides another thing to upgrade
+-Still need to come up with the point of it all
+
+
+Mana making trash and occasional gold could be analogous to creative process
